@@ -1,5 +1,3 @@
-# Daily Learning
-
-## Morning Planning
-
-## Review
+- [ ] 주제 아이디어를 얻기 위해 [GitHub 블로그](https://github.blog/)를 확인.
+- [ ] [GitHub Pages](https://skills.github.com/#first-day-on-github)에 대해 알아보기.
+- [ ] 첫 번째 블로그 게시물을 실제 웹페이지로 변환하기.
