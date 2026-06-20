@@ -1,3 +1,5 @@
-- [ ] 주제 아이디어를 얻기 위해 [GitHub 블로그](https://github.blog/)를 확인.
-- [ ] [GitHub Pages](https://skills.github.com/#first-day-on-github)에 대해 알아보기.
-- [ ] 첫 번째 블로그 게시물을 실제 웹페이지로 변환하기.
+[ffmpeg](https://www.ffmpeg.org)을 사용하여 이미지나 동영상을 다크 모드에서 라이트 모드로 변환하기
+
+```bash
+ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output.mp4
+```
